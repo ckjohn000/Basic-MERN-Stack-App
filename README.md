@@ -1,7 +1,7 @@
 # Basic-MERN-Stack-App
 A simple and basic MERN Stack App.
 
-Front-End - React + Redux.\
+Front-End - React.\
 Back-End - Node.js, Express.js & MongoDB
 
 ## Available Scripts
