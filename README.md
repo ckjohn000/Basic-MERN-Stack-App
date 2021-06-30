@@ -27,3 +27,8 @@ You will also see any lint errors in the console.
 - [MongoDB](https://www.mongodb.com/)
 
 - [Mongoose](https://mongoosejs.com/)
+
+### Attempted
+- [x] Frontend
+- [x] Backend
+- [x] MongoDB Atlas on AWS
